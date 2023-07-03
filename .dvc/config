@@ -1,0 +1,4 @@
+[core]
+    remote = myreport
+['remote "myreport"']
+    url = C:/Program Files/Git/dvc/dvcstore
